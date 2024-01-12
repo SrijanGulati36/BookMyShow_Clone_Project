@@ -1,6 +1,5 @@
-# Movie Booking Application
-
-Welcome to the Movie Booking Application! This application allows users to browse and book movies, similar to platforms like BookMyShow. It's built using React.js, Tailwind CSS, and the react-slick carousel library. The backend API routes are powered by TMDB for fetching movie data. Users can explore recommended movies, premiers, online streaming events, and more.
+# BookMyShow_Clone
+Build the clone of a very popular E-Commerce web application which allows user to browse and book movies, shows, events, plays, sports, activities etc. BookMyShow is India's biggest online movie and events ticketing brand. The website caters to ticket sales for movies, plays, concerts and sporting events via the online platform.
 
 ## Features
 
@@ -12,16 +11,11 @@ Welcome to the Movie Booking Application! This application allows users to brows
 
 - **Filtering:** Navigate through different pages like Homepage, Plays, and Events, with filtering options.
 
-## Deployed Link
+<div align="center">
+  <a href="https://bookmyshow03.netlify.app/"><strong>➥ Live Demo</strong></a>
+</div>
 
-[Book My Show](https://book-my-show-clone-teal.vercel.app/)
-
-## Technologies Used
-
-- Frontend: React.js, Tailwind CSS, react-slick (for carousel).
-- Backend: TMDB API (for movie data), Razorpay (for test mode payments).
-
-## Screenshots
+## BookMyShow_Clone Snapshots:-
 
 ### Home Page
 
