@@ -12,7 +12,7 @@ Build the clone of a very popular E-Commerce web application which allows user t
 - **Filtering:** Navigate through different pages like Homepage, Plays, and Events, with filtering options.
 
 <div align="center">
-  <a href="https://bookmyshow03.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://book-my-show-clone-project-srijan-gulatis-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## BookMyShow_Clone Snapshots:-
