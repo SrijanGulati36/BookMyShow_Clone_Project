@@ -11,8 +11,18 @@ Build the clone of a very popular E-Commerce web application which allows user t
 
 - **Filtering:** Navigate through different pages like Homepage, Plays, and Events, with filtering options.
 
+## Pages
+
+- **Homepage:** Displays recommended movies, premiers, and online streaming events.
+- **Plays:** Browse different pages and apply filters related to plays.
+- **Events:** Explore various events and apply filters.
+
+## Payment
+
+To test the payment gateway without spending real money, use the provided Razorpay test mode. No actual payments will be processed.
+
 <div align="center">
-  <a href="https://book-my-show-clone-project-srijan-gulatis-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://book-my-show-clone-teal.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## BookMyShow_Clone Snapshots:-
@@ -39,34 +49,4 @@ Build the clone of a very popular E-Commerce web application which allows user t
 
 
 
-## Getting Started
 
-Follow these steps to run the project locally:
-
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project folder: `cd your-repo`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and go to `http://localhost:3000` to access the application.
-
-## Pages
-
-- **Homepage:** Displays recommended movies, premiers, and online streaming events.
-- **Plays:** Browse different pages and apply filters related to plays.
-- **Events:** Explore various events and apply filters.
-
-## Payment
-
-To test the payment gateway without spending real money, use the provided Razorpay test mode. No actual payments will be processed.
-
-## Contributing
-
-Contributions to this project are welcomed and encouraged. If you encounter any bugs, have suggestions for improvements, or want to add new features, please submit issues or pull requests through GitHub.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for choosing **Book My Show**. If you have any questions or need further assistance, please don't hesitate to contact us at tusharaggarwal274@gmail.com. We hope you find our application both helpful and user-friendly!
