@@ -33,7 +33,7 @@ To test the payment gateway without spending real money, use the provided Razorp
 
 ### Premier and Online Streaming Events
 
-![Screenshot_39](https://github.com/TusharTechs/book-my-show/assets/56952465/cba57a2d-2898-41ae-a8e7-41dede7bc6e1)
+<img src="https://github.com/SrijanGulati36/BookMyShow_Clone_Project/blob/main/assets/Demo2.png" />
 
 ### Movie Page
 
