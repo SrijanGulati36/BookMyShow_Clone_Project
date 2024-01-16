@@ -37,7 +37,7 @@ To test the payment gateway without spending real money, use the provided Razorp
 
 ### Movie Page
 
-![Screenshot_40](https://github.com/TusharTechs/book-my-show/assets/56952465/f6a951a8-c85f-4b8f-83e8-ab5c7b51b5e6)
+<img src="https://github.com/SrijanGulati36/BookMyShow_Clone_Project/blob/main/assets/Demo3.png" />
 
 ### Payment Gateway
 
