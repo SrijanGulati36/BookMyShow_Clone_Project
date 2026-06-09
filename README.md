@@ -1,27 +1,19 @@
 # BookMyShow Clone 🎬
 
-A scalable MERN-based ticket booking platform supporting 500+ concurrent users 
-with real-time seat locking and secure payment processing.
+A scalable MERN-based ticket booking platform supporting 500+ concurrent 
+users with real-time seat locking and secure payment processing.
 
-## 🚀 Key Highlights
-- 500+ concurrent users with real-time seat locking
-- JWT authentication with Role-Based Access Control (RBAC)
-- MongoDB query optimization — 30% faster retrieval
-- Razorpay payment gateway integration
-- Automated CI/CD pipelines for zero-downtime deployments
+## ✨ Features & Highlights
+- Supports **500+ concurrent users** with real-time seat locking
+- **JWT authentication** with Role-Based Access Control (RBAC)
+- MongoDB query optimization — **30% faster retrieval**
+- **Razorpay payment gateway** for secure test transactions
+- Automated **CI/CD pipelines** for zero-downtime deployments
+- Browse movies, plays, events, and sports with detailed pages
+- Filter across Homepage, Plays, and Events sections
 
 ## 🛠️ Tech Stack
 React.js · Node.js · Express.js · MongoDB · JWT · Razorpay · Vercel · CI/CD
-
-## Features
-
-- **Movie Listings:** Browse through recommended movies, premiers, and online streaming events.
-
-- **Detailed Movie Pages:** Click on a movie card to navigate to the movie's specific page, showing comprehensive details.
-
-- **Secure Payments:** Users can buy or rent movies securely using Razorpay, a test mode payment gateway.
-
-- **Filtering:** Navigate through different pages like Homepage, Plays, and Events, with filtering options.
 
 ## Pages
 
