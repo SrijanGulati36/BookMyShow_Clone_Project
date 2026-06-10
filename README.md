@@ -11,6 +11,7 @@ users with real-time seat locking and secure payment processing.
 - Automated **CI/CD pipelines** for zero-downtime deployments
 - Browse movies, plays, events, and sports with detailed pages
 - Filter across Homepage, Plays, and Events sections
+  
 
 ## 🛠️ Tech Stack
 React.js · Node.js · Express.js · MongoDB · JWT · Razorpay · Vercel · CI/CD
